@@ -1,0 +1,20 @@
+title: <p align="center"> Manoj Kumar </p>
+logo: /assets/img/ManojKumar_Dallas.jpg
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/manojkumar-mct-aws/">LinkedIn</a> |
+  <a href="https://github.com/manojkumarsingh77">GitHub</a>
+  
+  <br>   
+  I am a Lead Cloud architect, working on Data Science, Data Engineering, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data Spark from real-time Ad call data.
+  Working in AdTech domain from last 14 years.
+  <br>
+  </p>
+
+
+
+theme: jekyll-theme-minimal
+
